@@ -1,5 +1,4 @@
 tensorflow-gpu
 numpy
-scipy
-pillow
-imageio
+scipy==1.1.0
+imageio==2.3.0
