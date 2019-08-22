@@ -12,7 +12,7 @@ As proposed by [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/) in
 
 ### Train
 ```bash
-python main.py --dataset_dir=med_image
+python main.py --dataset_dir=med-image
 ```
 
 ### Test
